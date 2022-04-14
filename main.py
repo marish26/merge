@@ -10,3 +10,9 @@ for num in range(1, 10):
             print('impossibale')
     break
     print('-')
+
+print('vaytem senc mi ban er hastat chem hishm vorftv chem ogtvm merge')
+# isk petqa galis?
+# karelia asac che
+# isk HEAD?che vaytem
+# de lav ber hima angls sovorem es aravoty kzangem xosalov kases
